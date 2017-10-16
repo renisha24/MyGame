@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+                <!-- Customize your theme here. -->f
+                <item name="colorPrimaryDark">@color/colorPrimary</item>
+                <item name="colorPrimary">#b58686</item>
+                <item name="colorAccent">@color/colorAccent</item>
+
+        </style>
+        <style name="DialogTheme" parent="android:Theme.Dialog">
+                <item name="android:windowBackground">@drawable/dialog_border</item>
+                <item name="android:windowNoTitle">true</item>
+        </style>
+        <style name="MyActionBar" parent="Theme.AppCompat">
+                <item name="android:background">@color/colorPrimary</item>
+        </style>
+</resources>

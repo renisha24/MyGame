@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorPrimary">#b58686</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="DialogTheme" parent="android:Theme.Dialog">
+        <item name="android:windowBackground">@drawable/dialog_border</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="MyActionBar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+
+        <item name="android:background">#000000</item>
+
+
+    </style>
+</resources>

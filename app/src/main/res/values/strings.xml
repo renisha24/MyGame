@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Fast Fingers</string>
+    <string name="new_game">PLAY</string>
+    <string name="resume">RESUME GAME</string>
+    <string name="start_game">START GAME</string>
+    <string name="next_level">Next Level</string>
+    <string name="reset_game">RESET</string>
+    <string name="play_again">Try Again?</string>
+    <string name="exit_game">EXIT</string>
+    <string name="timer">TIMER</string>
+    <string name="bravo">Bravo You Made it!!!</string>
+    <string name="game_over">GAME OVER!!!</string>
+    <string name="welcome">1234......n</string>
+    <string name="about">ABOUT</string>
+    <string name="warmup">WARM UP</string>
+    <string name="startup">Your game will start in . . . . </string>
+    <string name="level">LEVELS</string>
+    <string name="unlocked_level">game.my.bulletin.unlocked_level</string>
+    <string name="high_score">game_my_bulletin_high_score</string>
+    <string name="reset_text">On reset game progress will be lost. do you still want to continue?</string>
+</resources>
